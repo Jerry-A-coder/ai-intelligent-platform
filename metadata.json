@@ -1,0 +1,6 @@
+{
+  "name": "PulseGrid AIOps — Autonomous Incident Intelligence & Operational Resilience Platform",
+  "description": "Enterprise-grade autonomous incident management and AIOps resilience platform featuring real-time telemetry streaming, predictive anomaly detection, explainable root cause analysis, automated remediation runbooks, what-if disaster simulation, and role-based incident command.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
